@@ -10,8 +10,8 @@
 					<div class="pi-pic">
 						<img src="/images/product/1.jpg" alt="">
 						<div class="pi-links">
-							<a href="#" class="add-card"><i class="flaticon-bag"></i><span>ADD TO CART</span></a>
-							<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+							<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+							<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 						</div>
 					</div>
 					<div class="pi-text">
@@ -24,8 +24,8 @@
 						<div class="tag-new">New</div>
 						<img src="/images/product/2.jpg" alt="">
 						<div class="pi-links">
-							<a href="#" class="add-card"><i class="flaticon-bag"></i><span>ADD TO CART</span></a>
-							<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+							<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+							<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 						</div>
 					</div>
 					<div class="pi-text">
@@ -37,8 +37,8 @@
 					<div class="pi-pic">
 						<img src="/images/product/3.jpg" alt="">
 						<div class="pi-links">
-							<a href="#" class="add-card"><i class="flaticon-bag"></i><span>ADD TO CART</span></a>
-							<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+							<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+							<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 						</div>
 					</div>
 					<div class="pi-text">
@@ -50,8 +50,8 @@
 						<div class="pi-pic">
 							<img src="/images/product/4.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">
@@ -63,8 +63,8 @@
 						<div class="pi-pic">
 							<img src="/images/product/5.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">

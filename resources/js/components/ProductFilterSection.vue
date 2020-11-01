@@ -21,8 +21,8 @@
 						<div class="pi-pic">
 							<img src="/images/product/5.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"><b-icon icon="handbag"></b-icon></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i><b-icon icon="heart"></b-icon></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">
@@ -37,8 +37,8 @@
 							<div class="tag-sale">ON SALE</div>
 							<img src="/images/product/6.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"><b-icon icon="handbag"></b-icon></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i><b-icon icon="heart"></b-icon></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">
@@ -52,8 +52,8 @@
 						<div class="pi-pic">
 							<img src="/images/product/7.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"><b-icon icon="handbag"></b-icon></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i><b-icon icon="heart"></b-icon></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">
@@ -67,8 +67,8 @@
 						<div class="pi-pic">
 							<img src="/images/product/8.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"><b-icon icon="handbag"></b-icon></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i><b-icon icon="heart"></b-icon></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">
@@ -82,8 +82,8 @@
 						<div class="pi-pic">
 							<img src="/images/product/9.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"><b-icon icon="handbag"></b-icon></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i><b-icon icon="heart"></b-icon></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">
@@ -97,8 +97,8 @@
 						<div class="pi-pic">
 							<img src="/images/product/10.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"><b-icon icon="handbag"></b-icon></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i><b-icon icon="heart"></b-icon></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">
@@ -112,8 +112,8 @@
 						<div class="pi-pic">
 							<img src="/images/product/11.jpg" alt="">
 							<div class="pi-links">
-								<a href="#" class="add-card"><i class="flaticon-bag"><b-icon icon="handbag"></b-icon></i><span>ADD TO CART</span></a>
-								<a href="#" class="wishlist-btn"><i class="flaticon-heart"></i><b-icon icon="heart"></b-icon></a>
+								<a href="#" class="add-card"><b-icon icon="handbag"></b-icon><span>ADD TO CART</span></a>
+								<a href="#" class="wishlist-btn"><b-icon icon="heart"></b-icon></a>
 							</div>
 						</div>
 						<div class="pi-text">

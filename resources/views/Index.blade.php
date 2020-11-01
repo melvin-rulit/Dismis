@@ -51,8 +51,8 @@
 	<script src="js/jquery-ui.min.js"></script>
 	<script src="{{ asset('js/main.js') }}"></script>
 	<script src="{{ asset('js/app.js') }}"></script> 
-	
-	<!-- Fonts -->
+
+	<!-- fontawesome icon -->
 	<script src="https://kit.fontawesome.com/db6d5fc850.js" crossorigin="anonymous"></script> 
 </body>
 </html>
