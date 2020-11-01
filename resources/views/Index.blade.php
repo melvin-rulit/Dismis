@@ -14,18 +14,12 @@
 
 <!-- Stylesheets -->
 <link href="{{ asset('css/style.css') }}" rel="stylesheet">
-<link rel="stylesheet" href="css/bootstrap.min.css"/>
-<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<!-- <link rel="stylesheet" href="css/bootstrap.min.css"/> -->
 <!-- <link rel="stylesheet" href="css/flaticon.css"/> -->
 <link rel="stylesheet" href="css/slicknav.min.css"/>
 <link rel="stylesheet" href="css/jquery-ui.min.css"/>
 <link rel="stylesheet" href="css/owl.carousel.min.css"/>
 <link rel="stylesheet" href="css/animate.css"/>
-
-
-            
-            <!-- Bootstrap -->
-            <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
 
 </head>
 <body>
@@ -33,9 +27,13 @@
 
 
 <div id="app">
-
+<!-- <router-view></router-view>sa -->
 <v-header></v-header>
-<!-- <v-herosection></v-herosection> -->
+<v-herosection></v-herosection>
+<v-featuressection></v-featuressection>
+<v-latestproducts></v-latestproducts>
+<v-productsection></v-productsection>
+<v-form></v-form>
 <v-footer></v-footer>
 
 </div>
@@ -51,9 +49,11 @@
 	<script src="js/jquery.nicescroll.min.js"></script>
 	<script src="js/jquery.zoom.min.js"></script>
 	<script src="js/jquery-ui.min.js"></script>
-	<script src="js/main.js"></script>
-
-    <script src="{{ asset('js/app.js') }}"></script>   
+	<script src="{{ asset('js/main.js') }}"></script>
+	<script src="{{ asset('js/app.js') }}"></script> 
+	
+	<!-- Fonts -->
+	<script src="https://kit.fontawesome.com/db6d5fc850.js" crossorigin="anonymous"></script> 
 </body>
 </html>
 

@@ -11,8 +11,12 @@ Vue.use(IconsPlugin)
 
 // Глобальное подключение компонентов
 Vue.component('v-header', require('./components/Header.vue').default);
+Vue.component('v-featuressection', require('./components/FeaturesSection.vue').default);
+Vue.component('v-latestproducts', require('./components/LatestProducts.vue').default);
+Vue.component('v-herosection', require('./components/HeroSection.vue').default);
+Vue.component('v-productsection', require('./components/ProductFilterSection.vue').default);
+Vue.component('v-form', require('./components/BannerSection.vue').default);
 Vue.component('v-footer', require('./components/Footer.vue').default);
-// Vue.component('v-herosection', require('./components/HeroSection.vue').default);
 
 
 

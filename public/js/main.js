@@ -221,5 +221,9 @@ $(window).on('load', function() {
 	$('.product-pic-zoom').zoom();
 
 
-
 })(jQuery);
+
+$(document).ready(function(){
+	$(".owl-carousel").owlCarousel();
+  });
+

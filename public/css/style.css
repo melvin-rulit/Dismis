@@ -6,7 +6,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	/* font-smoothing: antialiased; */
 }
-#app a{
+#app a,p{
 	font-family: 'Josefin Sans', sans-serif;
 	text-decoration: none; /* Отменяем подчеркивание у ссылки */
 }
@@ -64,9 +64,7 @@ button:focus,
 textarea:focus {
 	outline: none;
 }
-a { 
-    text-decoration: none; /* Отменяем подчеркивание у ссылки */
-   }
+
 a:hover,
 a:focus {
 	
@@ -343,6 +341,7 @@ ol {
 	width: 100%;
 	position: relative;
 	padding: 0 10px;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 .header-search-form input {
@@ -415,6 +414,7 @@ ol {
 
 .main-menu {
 	list-style: none;
+	margin-bottom: 0px;
 }
 
 .main-menu li {
@@ -504,6 +504,7 @@ ol {
 }
 
 .hero-slider .hs-item {
+	background-image: url();
 	position: relative;
 	height: 720px;
 }
@@ -935,12 +936,12 @@ ol {
 
 .product-filter-menu {
 	list-style: none;
-	margin: 0 -10px;
+	margin: 0 -8px;
 	padding-bottom: 15px;
 }
 
 .product-filter-menu li {
-	margin: 0 10px 10px;
+	margin: 0 8px 10px;
 	display: inline-block;
 }
 
@@ -964,6 +965,7 @@ ol {
 	padding: 50px 34px 47px;
 	position: relative;
 	margin-bottom: 70px;
+	background-image: url('/images/banner-bg.jpg');
 }
 
 .banner .tag-new {
@@ -1128,7 +1130,7 @@ ol {
 }
 
 .social-links a {
-	margin-right: 60px;
+	margin-right: 55px;
 	display: inline-block;
 }
 
@@ -2225,6 +2227,7 @@ ol {
 	}
 	.header-search-form {
 		margin-bottom: 15px;
+
 	}
 	.user-panel {
 		text-align: center;
