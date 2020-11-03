@@ -11,7 +11,13 @@ body {
 	text-decoration: none; /* Отменяем подчеркивание у ссылки */
 }
 
+.Fuck {
+	background-color: red;
+}
 
+.korn{
+	border: 1px solid red;
+}
 
 h1,
 h2,
@@ -889,6 +895,7 @@ ol {
 	opacity: 0;
 }
 
+/* кода отвечающий за выполнение анимации */
 .product-item .pi-links a.add-card:hover {
 	width: 148px;
 	padding: 8px 18px 0;

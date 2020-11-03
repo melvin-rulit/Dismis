@@ -1,5 +1,5 @@
 import Vue from 'vue'
-// import App from 'App.vue'
+import router from "./router"
 import { BootstrapVue, IconsPlugin} from 'bootstrap-vue'
 // import "/public/css/tailwind.css"
 
@@ -19,13 +19,6 @@ Vue.component('v-form', require('./components/BannerSection.vue').default);
 Vue.component('v-footer', require('./components/Footer.vue').default);
 
 
-
-
-
-
 const app = new Vue({
-    el: '#app',
-    data: {
-       
-      },
-});
+  router
+}).$mount('#app')

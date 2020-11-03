@@ -1,15 +1,15 @@
-import vueRouter from 'vue-router'
-import Vue from 'vue'
+import vueRouter from 'vue-router';
+import Vue from 'vue';
 
 
-Vue.use (vueRouter)
+Vue.use(vueRouter);
 
 import Index from "./views/Index";
 import Blog from "./views/Blog";
 
 const routes = [
     { 
-        path: "/", 
+        path: "/Home", 
         component: Index
 
     },

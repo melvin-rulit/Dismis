@@ -37,38 +37,19 @@
 		</div>
 		<nav class="main-navbar">
 			<div class="container">
+
 				<!-- menu -->
 				<ul class="main-menu">
-					<li><a href="#">Home</a></li>
-					<li><a href="#">Women</a></li>
-					<li><a href="#">Men</a></li>
-					<li><a href="#">Jewelry
-						<span class="new">New</span>
-					</a></li>
-					<li><a href="#">Shoes</a>
-						<ul class="sub-menu">
-							<li><a href="#">Sneakers</a></li>
-							<li><a href="#">Sandals</a></li>
-							<li><a href="#">Formal Shoes</a></li>
-							<li><a href="#">Boots</a></li>
-							<li><a href="#">Flip Flops</a></li>
-						</ul>
+					<li v-for="link of links" :key="link.title">
+				<router-link :to="link.href">{{ link.title }}</router-link>
 					</li>
-					<li><a href="#">Pages</a>
-						<ul class="sub-menu">
-							<li><a href="./product.html">Product Page</a></li>
-							<li><a href="./category.html">Category Page</a></li>
-							<li><a href="./cart.html">Cart Page</a></li>
-							<li><a href="./checkout.html">Checkout Page</a></li>
-							<li><a href="./contact.html">Contact Page</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Blog</a></li>
 				</ul>
 			</div>
 		</nav>
 	</header>
+	
 	<!-- Header section end -->
+	
     
 </template>
 
@@ -77,10 +58,40 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
-
-    export default {
-        mounted() {
-            console.log('Component mounted.')
-        }
-    }
+export default {
+data(){
+  return {
+    links: [
+      {
+       title : "Home",
+       href : "/Home"
+      },
+      {
+        title : "Women",
+        href : "/Women"
+      },
+      {
+        title : "Men",
+        href : "/blog"
+      },
+      {
+        title : "Jewerly",
+        href : "/blog"
+      },
+      {
+        title : "Shoes",
+        href : "/blog"
+      },
+      {
+        title : "Pages",
+        href : "/blog"
+      },
+      {
+        title : "Blog",
+        href : "/blog"
+      }
+    ]
+  }
+}
+}
 </script>
