@@ -13,12 +13,31 @@ const routes = [
         component: Index
 
     },
-    
+    {
+      path: "/Blog", 
+      component: Blog
+
+    },
     {
       path: "/blog", 
       component: Blog
 
-    }
+    },
+    {
+      path: "/blog", 
+      component: Blog
+
+    },
+    {
+      path: "/blog", 
+      component: Blog
+
+    },
+    {
+      path: "/blog", 
+      component: Blog
+
+    },
  
   ];
 

@@ -18,7 +18,7 @@
 
     <!-- Stylesheets -->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
-    <!-- <link rel="stylesheet" href="css/bootstrap.min.css"/> -->
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
     <!-- <link rel="stylesheet" href="css/flaticon.css"/> -->
     <link rel="stylesheet" href="css/slicknav.min.css" />
     <link rel="stylesheet" href="css/jquery-ui.min.css" />
@@ -30,6 +30,8 @@
 <body>
 
     <div id="app">
+
+        
         <v-header></v-header>
         <!-- <v-herosection></v-herosection>
 <v-featuressection></v-featuressection>
@@ -38,6 +40,7 @@
 <v-form></v-form>
 <v-footer></v-footer> -->
         <router-view></router-view>
+
 
     </div>
 
@@ -55,9 +58,10 @@
     <script src="js/jquery-ui.min.js"></script>
     <script src="{{ asset('js/main.js') }}"></script>
     <script src="{{ asset('js/app.js') }}"></script>
+    <!-- <script src="{{ asset('js/test.js') }}"></script> -->
 
     <!-- Test script -->
-    <script src="{{ asset('js/script.js') }}"></script>
+    <!-- <script src="{{ asset('js/script.js') }}"></script> -->
 
 
 

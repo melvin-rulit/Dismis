@@ -223,7 +223,3 @@ $(window).on('load', function() {
 
 })(jQuery);
 
-$(document).ready(function(){
-	$(".owl-carousel").owlCarousel();
-  });
-
