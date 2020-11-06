@@ -22,8 +22,11 @@
     <!-- <link rel="stylesheet" href="css/flaticon.css"/> -->
     <link rel="stylesheet" href="css/slicknav.min.css" />
     <link rel="stylesheet" href="css/jquery-ui.min.css" />
-    <link rel="stylesheet" href="css/owl.carousel.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
+
+     <!-- Owl carousel -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="css/owl.theme.default.min.css">
 
 </head>
 
@@ -58,12 +61,12 @@
     <script src="js/jquery-ui.min.js"></script>
     <script src="{{ asset('js/main.js') }}"></script>
     <script src="{{ asset('js/app.js') }}"></script>
-    <!-- <script src="{{ asset('js/test.js') }}"></script> -->
-
-    <!-- Test script -->
-    <!-- <script src="{{ asset('js/script.js') }}"></script> -->
 
 
+    <!-- User script -->
+    <script src="{{ asset('js/script.js') }}"></script>
+
+<!--  -->
 
 </body>
 

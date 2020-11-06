@@ -515,6 +515,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -704,6 +705,12 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports) {
 
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -53887,7 +53894,23 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("v-productsection")
+  return _c(
+    "div",
+    [
+      _c("b-corusel"),
+      _vm._v(" "),
+      _c("v-featuressection"),
+      _vm._v(" "),
+      _c("v-latestproducts"),
+      _vm._v(" "),
+      _c("v-productsection"),
+      _vm._v(" "),
+      _c("v-form"),
+      _vm._v(" "),
+      _c("v-footer")
+    ],
+    1
+  )
 }
 var staticRenderFns = []
 render._withStripped = true

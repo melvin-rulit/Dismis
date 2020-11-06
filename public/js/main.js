@@ -221,5 +221,6 @@ $(window).on('load', function() {
 	$('.product-pic-zoom').zoom();
 
 
-})(jQuery);
 
+
+})(jQuery);
